@@ -4,8 +4,7 @@ use std::io;
 
 use dirs::data_dir;
 
-const DEFAULT_VERSES:&str = r"
-For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. (John 3:16)
+const DEFAULT_VERSES:&str = r"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. (John 3:16)
 The Lord is my shepherd; I shall not want. (Psalm 23:1)
 I can do all things through Christ who strengthens me. (Philippians 4:13)
 Trust in the Lord with all your heart, and do not lean on your own understanding. (Proverbs 3:5)
