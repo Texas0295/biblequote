@@ -1,6 +1,6 @@
 # Bible quote
 
-A program that print quotes in bible randomly
+A program that prints quotes in bible randomly
 
 ## Usage
 
